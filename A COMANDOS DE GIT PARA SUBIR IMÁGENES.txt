@@ -1,3 +1,18 @@
+Comandos de GIT para subir imágenes 
+sobre los datos de la conexión:
+ 
+Paso 1. Dentro de la carpeta 
+"IMAGENES_DATOS_DE_CONEXION", 
+hacer click derecho y 
+seleccionar "open git bash here", 
+una vez que se abra la ventana 
+escribir los siguientes comandos 
+linea por linea
+
+Paso 2. Escribir los siguientes comandos
+uno por uno
+
+
 git pull
 
 git add .
@@ -5,3 +20,4 @@ git add .
 git commit -m "Agregando nuevas imagenes"
 
 git push
+ 
